@@ -1,0 +1,10 @@
+{
+  "name": "styled-awesomeness",
+  "version": "1.0.0",
+  "description": "Learning Styled Components by cloning some screens of the Now UI Kit",
+  "main": "index.js",
+  "repository": "https://github.com/serranoarevalo/styled-awesomeness",
+  "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
