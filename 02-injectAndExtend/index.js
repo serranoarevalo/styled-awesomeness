@@ -1,11 +1,5 @@
 import React, { Fragment } from "react";
 import styled, { injectGlobal } from "styled-components";
-/*
-    Goal:
-        - Make a button
-        - Give hover and active states
-        - Change the background color of the button depending on the props
-*/
 
 const Button = styled.button`
   -webkit-appearance: none;
