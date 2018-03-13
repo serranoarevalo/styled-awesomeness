@@ -1,0 +1,18 @@
+{
+  "name": "styled-awesomeness",
+  "version": "1.0.0",
+  "description": "Learning how to use Styled-Components by example",
+  "main": "index.js",
+  "repository": "https://github.com/serranoarevalo/styled-awesomeness",
+  "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.2.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
